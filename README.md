@@ -1,4 +1,4 @@
-### This is a Simple Customer Churn Analysis Project
+### This is a Simple Customer Churn Analysis Project in Google Colab
 
 1. Analyzing Gender who Churns the most
 2. Formatting Senior Citizens for better understanding and analyzing their Churn
